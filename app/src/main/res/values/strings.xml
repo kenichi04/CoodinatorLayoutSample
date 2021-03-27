@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ツールバーサンプル</string>
+    <string name="tv_article">
+        吾輩は猫である。名前はまだない。\n
+        hogehogehogehogehogehogehogehogehogehogehogehogehogehogeohgeohge
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hogehogehogehogehogehogehogehogehogehogehogehogehogehogeohgeohge
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hogehogehogehogehogehogehogehogehogehogehogehogehogehogeohgeohge
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+        hoegehogehogheohgoehgoehgoehgoehgeohgoehgoehgoheogheogheohgeohgeho\n
+    </string>
+    <string name="toolbar_title">Material!</string>
+    <string name="toolbar_subtitle">ツールバーを使用</string>
+</resources>
